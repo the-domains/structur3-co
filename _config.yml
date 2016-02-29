@@ -1,6 +1,6 @@
 name: Structur3.co
 favicon: null
-layout_spectrum: 0.16494003660045564
+layout_spectrum: 1
 typography_spectrum: 0.8121717844624072
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#676766'
+    - '#f3f3f4'
+    - '#3a3a39'
+    - '#8c8c8d'
   brandStrength: 0.7243584794923663
   lightness: 0.2735526154283434
   saturation: 0.6771700801327825
